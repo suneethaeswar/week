@@ -41,8 +41,12 @@ int main()
 }
 /*
 Output:
-After Swapping:                                                                                                                         
-a1: 5   a2: 6                                                                                                                           
-b1: 4.67        b2: 7.9                                                                                                                 
-c1: g   c2: v 
+Before Swapping:
+a1: 6   a2: 5
+b1: 7.9 b2: 4.67
+c1: v   c2: g
+After Swapping:
+a1: 5   a2: 6
+b1: 4.67        b2: 7.9
+c1: g   c2: v
 */
