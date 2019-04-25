@@ -26,7 +26,7 @@ int main () {
     cout<<"Enter text and terminate with $:\n";
     std::getline(std::cin, str, delim);
     file<<str;
-    cout<<"/n/nText write in file completed";
+    cout<<"\n\nText write in file completed";
 }
 
 /*
